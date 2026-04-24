@@ -1,6 +1,6 @@
 ---
-name: reddit-karma-boost
-display_name: Reddit Karma 运营助手
+name: reddit-boost
+display_name: Reddit 速涨助手
 version: 3.1.0
 description: |
   自动化处理新账号 Karma 增长的指令集。
