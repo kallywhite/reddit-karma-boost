@@ -1,7 +1,6 @@
 # 📱 Reddit Karma 速涨指南
 
 **版本：** 2.0（分享版）  
-**实战验证：** 30 → 100+ karma in 2 days ✅  
 **适用人群：** Reddit 新账号、内容创作者、创业者、营销人员
 
 ---
@@ -271,36 +270,6 @@ https://www.worldtimebuddy.com/  # 查看美国时间
 - 解锁评论权限（很多 sub 要求 50+karma）
 - 账号权重提升（评论默认排前面）
 - 建立信任（用户更愿意信高 karma 账号）
-
----
-
-## 📝 实战案例
-
-### 案例 1：30 → 100+ karma（2 天）
-**账号：** [匿名用户]  
-**策略：** new/rising 帖子抢先评论  
-**内容：** 15+ 条评论（AskReddit 为主）  
-**结果：** 100+ karma（无 downvote）  
-**最佳评论：** 36 upvotes（价值观共鸣类）
-
-**学习：**
-- 时机比内容重要，新帖子评论排前面
-- 价值观/人品判断类内容最容易火
-- 短句子 + 金句收尾 = 高互动
-
----
-
-### 案例 2：单条评论 500+karma
-**帖子类型：** r/AskReddit "What's a poor man's luxury?"  
-**评论：**
-```
-Using the good towels.
-
-Not saving them for "special occasions." The occasion is drying off after a shower.
-
-Took me 30 years to realize this.
-```
-**为什么爆：** 具体、有共鸣、短小精悍、有自嘲
 
 ---
 
