@@ -152,19 +152,3 @@ I spent years agonizing over one slightly awkward wave. Turns out everyone else 
 
 Took me 25 years to figure that out.
 ```
-
----
-
-### 模板 4：vibe coding / AI 工具经历
-**适用**：r/SaaS、r/indiehackers、AI 工具讨论类帖子
-
-**公式**：`[我遇到的具体问题] + [用 AI 解决的过程，有点意外] + [结果和感受]`
-
-**示例**（帖子：Anyone else using AI to build their own tools?）：
-```
-Built a Reddit monitoring tool for myself last month — no coding background, just me and Claude going back and forth for a few days.
-
-It's messy and probably horrifying to any real dev, but it does exactly what I need. Saved me hours of manually scanning subreddits every day.
-
-Honestly the hardest part was figuring out what I actually wanted it to do.
-```
